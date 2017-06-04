@@ -8,7 +8,7 @@ This is the code to reproduce all the experiments presented in the paper
 <br>
 
 
-![V-fold](figs/vfold.png)
+![V-fold](fig/vfold.png)
 
 ### Requirements
 * [Wavelab](http://statweb.stanford.edu/~wavelab/)
