@@ -1,4 +1,4 @@
-## $V$-fold model selection for localized bases
+## V-fold model selection for localized bases
 
 This is the code to reproduce all the experiments presented in the paper
 
