@@ -14,4 +14,3 @@ This is the code to reproduce all the experiments presented in the paper
 * [Wavelab](http://statweb.stanford.edu/~wavelab/)
 
 Copyright (c) 2017 Fabien Navarro and Adrien Saumard
-# ISNPS-2016
