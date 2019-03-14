@@ -4,8 +4,8 @@ This is the code to reproduce all the experiments presented in the paper
 
 **F. Navarro and A. Saumard
 <br>
-[Efficiency of the V-fold model selection for localized bases](https://www.springer.com/gp/book/9783319969404), 
-In Nonparametric statistics, Springer proceedings in Mathematics and Statistics, 3rd ISNPS, Avignon, 2016.**
+[Efficiency of the V-fold model selection for localized bases](https://link.springer.com/chapter/10.1007/978-3-319-96941-1_4), 
+In: Bertail P., Blanke D., Cornillon PA., Matzner-Løber E. (eds) Nonparametric Statistics. ISNPS 2016. Springer Proceedings in Mathematics & Statistics, vol 250. Springer, Cham.**
 <br>
 
 
